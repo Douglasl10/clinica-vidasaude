@@ -3,7 +3,7 @@
 Landing page moderna para clinica medica com formulario de agendamento online, construida com Next.js 15, React 19, Tailwind CSS e shadcn/ui.
 
 ## Image
-![VidaSaude Clinica - Preview](image/wallpaper.png)
+![VidaSaude Clinica - Preview](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-LcCjhAVxzSBzt1YzWGwGPPEOgCQDu9.png)
 ---
 
 ## Tecnologias Utilizadas
